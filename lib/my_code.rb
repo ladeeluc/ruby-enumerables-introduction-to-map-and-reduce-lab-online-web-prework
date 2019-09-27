@@ -65,5 +65,5 @@ while counter < array.size do
   return false if array[counter] == false
     counter += 1
 end
-total
+
 end
