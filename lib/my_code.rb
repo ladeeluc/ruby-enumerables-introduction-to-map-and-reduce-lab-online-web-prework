@@ -74,5 +74,5 @@ while counter < array.size do
   return true if array[counter] == true
     counter += 1
 end
-return true
+return false
 end
